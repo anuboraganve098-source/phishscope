@@ -1,0 +1,50 @@
+From: "Microsoft 365 Security" <security@micros0ft-365-support.com>
+To: employee@company.com
+Subject: Urgent: Microsoft 365 password expires within 24 hours
+Date: Sun, 04 Oct 2026 09:12:03 +0000
+Message-ID: <3891fe@mailer.micros0ft-365-support.com>
+Reply-To: helpdesk@free-mail-box.top
+Return-Path: <bounce@mailer.micros0ft-365-support.com>
+Received: from mx.company.com (mx.company.com [10.20.4.15]) by
+ mailbox.company.com with ESMTPS; Sun, 04 Oct 2026 09:12:30 +0000
+Received: from relay.bulkprovider.net (relay.bulkprovider.net [198.51.100.7])
+ by mx.company.com with ESMTP; Sun, 04 Oct 2026 09:12:20 +0000
+Received: from mailer.micros0ft-365-support.com (unknown [203.0.113.55]) by
+ relay.bulkprovider.net with ESMTP; Sun, 04 Oct 2026 09:12:08 +0000
+Authentication-Results: mx.company.com; spf=fail
+ smtp.mailfrom=mailer.micros0ft-365-support.com; dkim=none; dmarc=fail
+ header.from=micros0ft-365-support.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2275490081810001567=="
+
+--===============2275490081810001567==
+Content-Type: multipart/alternative;
+ boundary="===============4992702788154256719=="
+
+--===============4992702788154256719==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your password expires within 24 hours. Verify now: https://micros0ft-365-supp=
+ort.com/login?u=3Demployee
+
+--===============4992702788154256719==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Your Microsoft 365 password <b>expires within 24 hours</b>.</p><p><a href=
+=3D"https://micros0ft-365-support.com/login?u=3Demployee">https://login.micro=
+soft.com/reset</a></p>
+
+--===============4992702788154256719==--
+
+--===============2275490081810001567==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_4471.html"
+MIME-Version: 1.0
+
+PGh0bWw+PGZvcm0gYWN0aW9uPSdodHRwOi8vMjAzLjAuMTEzLjU1L3AnPjwvZm9ybT48L2h0bWw+
+
+--===============2275490081810001567==--
